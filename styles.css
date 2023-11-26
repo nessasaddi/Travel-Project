@@ -1,0 +1,73 @@
+     header {
+        max-width: 1200px;
+        margin: 0 auto;
+        background-image: linear-gradient(
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url("https://i.pinimg.com/564x/fd/24/1f/fd241fd1fdddd7bec4ca7424528039a1.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding: 60px 0;
+      }
+
+      header h1 {
+        color: white;
+        font-family: "EB Garamond", serif;
+        font-size: 60px;
+      }
+
+      header h3 {
+        text-align: center;
+        color: white;
+        font-family: "EB Garamond", serif;
+      }
+
+      header p {
+        color: white;
+        margin-bottom: 30px;
+        font-family: "EB Garamond", serif;
+      }
+
+      header button {
+        background-color: rgb(245, 245, 245);
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px 15px;
+        border-radius: 20px;
+        border: 2px solid white;
+        font-size: 12px;
+        cursor: pointer;
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+
+      .container1 img {
+        width: 100%;
+        height: auto;
+        display: block;
+        
+    }
+      .container2 {
+        padding: 20px;
+        font-family: "EB Garamond", serif;
+
+      }
+      .container4 {
+        padding: 50px;
+        background-color: purple;
+        text-align: center;
+      }
+      .container5 {
+        padding: 50px;
+        text-align: center;
+    }
+      .footer {
+        text-align: center;
+        padding: 20px;
+        background-color: lightgrey;
+        color: white;
+        margin: 100px;
+        border-radius: 4px;
+      }
